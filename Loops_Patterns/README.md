@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Java Pattern Programs
 
 A collection of **21 Java pattern programs** using nested loops, conditional statements, and simple number/character logic.
@@ -516,6 +515,3 @@ for(int i = 1; i <= n; i++)
 
 **Outer loop = Rows**
 **Inner loop = Columns / Pattern elements**
-=======
-# Java-Programming
->>>>>>> 21eff602515a85afd36e12d0d6a4cde10296298c
